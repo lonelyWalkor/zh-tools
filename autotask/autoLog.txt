@@ -1,0 +1,375 @@
+1  
+2017/06/0117:08:55.82 
+正在升级 '.':
+版本 11708。
+2  
+2017/06/0117:08:56.27 
+正在升级 '.':
+U    operate\dgg-web-operate\src\main\webapp\WEB-INF\freemarker\default\tag_service_classify.ftl
+更新到版本 11708。
+1  
+2017/06/0117:13:55.87 
+2  
+2017/06/0117:13:56.33 
+1  
+2017/06/0117:18:55.84 
+正在升级 '.':
+版本 11710。
+2  
+2017/06/0117:18:56.28 
+正在升级 '.':
+U    operate\dgg-web-operate\src\main\webapp\WEB-INF\pay\pay.jsp
+U    operate\dgg-web-operate\src\main\webapp\WEB-INF\company\company-list.jsp
+U    goods\dgg-web-goods\src\main\webapp\WEB-INF\goods\sku_manage.jsp
+U    goods\dgg-web-goods\src\main\webapp\resources\js\goods\goods\sku_manage.js
+更新到版本 11710。
+1  
+2017/06/0117:23:55.82 
+正在升级 '.':
+U    src\js\search\company-detail.js
+更新到版本 11713。
+2  
+2017/06/0117:23:56.27 
+正在升级 '.':
+U    operate\dgg-web-operate\src\main\webapp\WEB-INF\company\company-detail.jsp
+A    goods\dgg-web-goods\src\main\webapp\resources\js\goods\goods\sku_manage_new.js
+更新到版本 11713。
+1  
+2017/06/0117:28:55.81 
+正在升级 '.':
+U    build\js\base\dgg-common.min.js
+U    build\js\base\dgg-0.0.1.min.js
+U    src\css\adviser\adviser-list.css
+U    src\css\search\search.css
+U    src\css\shoping\shop.css
+U    src\js\base\dgg-common.js
+更新到版本 11714。
+1  
+2017/06/0117:33:55.84 
+正在升级 '.':
+版本 11716。
+2  
+2017/06/0117:33:56.30 
+正在升级 '.':
+U    operate\dgg-web-operate\src\main\java\com\dgg\controller\LoginController.java
+U    goods\dgg-web-goods\src\main\webapp\WEB-INF\goods\sku_manage.jsp
+U    goods\dgg-web-goods\src\main\webapp\resources\js\goods\goods\sku_manage.js
+更新到版本 11716。
+1  
+2017/06/0117:38:55.79 
+正在升级 '.':
+U    src\js\shopCart\balanceList.js
+U    src\js\userDetail\account-settings.js
+更新到版本 11718。
+1  
+2017/06/0117:43:55.84 
+正在升级 '.':
+版本 11720。
+2  
+2017/06/0117:43:56.27 
+正在升级 '.':
+U    business\front\dgg-web-front\src\main\webapp\resources\js\contentJs\goods\goodsBusinessCommon_test.js
+U    operate\dgg-web-pay-gateway\src\main\webapp\WEB-INF\pay\pay.jsp
+更新到版本 11720。
+1  
+2017/06/0117:48:55.83 
+正在升级 '.':
+U    build\css\adviser\adviser-list.min.css
+U    build\css\search\search.min.css
+U    build\css\shoping\shop.min.css
+U    build\js\shopCart\balanceList.min.js
+U    build\js\userDetail\account-settings.min.js
+U    build\js\search\company-detail.min.js
+U    build\js\search\company-list.min.js
+U    build\js\base\dgg-common.min.js
+U    build\js\base\dgg-0.0.1.min.js
+更新到版本 11722。
+1  
+2017/06/0117:53:55.87 
+正在升级 '.':
+U    src\html\template\fix-box\index-fix.html
+U    src\js\adviser\adviser-list.js
+更新到版本 11723。
+1  
+2017/06/0117:58:55.83 
+正在升级 '.':
+U    src\html\map\index.html
+更新到版本 11724。
+2  
+2017/06/0117:58:56.28 
+正在升级 '.':
+版本 11724。
+1  
+2017/06/0118:03:55.77 
+正在升级 '.':
+版本 11724。
+2  
+2017/06/0118:03:56.24 
+正在升级 '.':
+版本 11724。
+1  
+2017/06/0118:08:55.90 
+正在升级 '.':
+版本 11724。
+2  
+2017/06/0118:08:56.74 
+正在升级 '.':
+版本 11724。
+1  
+2017/06/02 8:29:28.61 
+正在升级 '.':
+U    src\js\login\login.js
+更新到版本 11728。
+1  
+2017/06/02 8:34:27.73 
+正在升级 '.':
+版本 11728。
+2  
+2017/06/02 8:34:28.47 
+正在升级 '.':
+U    operate\dgg-web-operate\src\main\webapp\WEB-INF\freemarker\default\tag_service_classify.ftl
+更新到版本 11728。
+1  
+2017/06/02 8:39:27.67 
+正在升级 '.':
+版本 11728。
+2  
+2017/06/02 8:39:28.17 
+正在升级 '.':
+版本 11728。
+1  
+2017/06/02 8:44:27.74 
+正在升级 '.':
+版本 11728。
+2  
+2017/06/02 8:44:28.18 
+正在升级 '.':
+版本 11728。
+1  
+2017/06/02 8:49:27.73 
+正在升级 '.':
+版本 11728。
+2  
+2017/06/02 8:49:28.12 
+正在升级 '.':
+版本 11728。
+1  
+2017/06/02 8:54:27.73 
+正在升级 '.':
+版本 11728。
+2  
+2017/06/02 8:54:28.13 
+正在升级 '.':
+版本 11728。
+1  
+2017/06/02 8:59:27.77 
+正在升级 '.':
+版本 11728。
+2  
+2017/06/02 8:59:28.18 
+正在升级 '.':
+版本 11728。
+1  
+2017/06/02 9:04:27.75 
+正在升级 '.':
+版本 11728。
+2  
+2017/06/02 9:04:28.20 
+正在升级 '.':
+版本 11728。
+1  
+2017/06/02 9:09:27.70 
+正在升级 '.':
+版本 11728。
+2  
+2017/06/02 9:09:28.32 
+正在升级 '.':
+已还原“operate\dgg-web-pay-gateway\dgg-web-pay-gateway.iml”
+版本 11728。
+1  
+2017/06/02 9:14:27.75 
+正在升级 '.':
+版本 11728。
+2  
+2017/06/02 9:14:28.12 
+正在升级 '.':
+版本 11728。
+1  
+2017/06/02 9:19:27.82 
+正在升级 '.':
+版本 11728。
+2  
+2017/06/02 9:19:28.21 
+正在升级 '.':
+版本 11728。
+1  
+2017/06/02 9:24:27.71 
+正在升级 '.':
+版本 11728。
+2  
+2017/06/02 9:24:28.26 
+正在升级 '.':
+版本 11728。
+1  
+2017/06/02 9:29:27.75 
+正在升级 '.':
+版本 11728。
+2  
+2017/06/02 9:29:28.16 
+正在升级 '.':
+版本 11728。
+1  
+2017/06/02 9:34:27.77 
+正在升级 '.':
+版本 11729。
+2  
+2017/06/02 9:34:28.27 
+正在升级 '.':
+版本 11729。
+1  
+2017/06/02 9:39:27.74 
+正在升级 '.':
+版本 11729。
+2  
+2017/06/02 9:39:28.18 
+正在升级 '.':
+版本 11729。
+1  
+2017/06/02 9:44:27.71 
+正在升级 '.':
+U    src\js\search\company-detail.js
+更新到版本 11730。
+2  
+2017/06/02 9:44:28.27 
+正在升级 '.':
+版本 11730。
+1  
+2017/06/02 9:49:27.75 
+正在升级 '.':
+版本 11730。
+2  
+2017/06/02 9:49:28.52 
+正在升级 '.':
+版本 11730。
+1  
+2017/06/02 9:54:27.71 
+正在升级 '.':
+版本 11731。
+2  
+2017/06/02 9:54:28.32 
+正在升级 '.':
+U    operate\dgg-web-operate\src\main\webapp\WEB-INF\company\company-detail.jsp
+更新到版本 11731。
+1  
+2017/06/02 9:59:27.72 
+正在升级 '.':
+版本 11731。
+2  
+2017/06/02 9:59:29.63 
+正在升级 '.':
+版本 11731。
+1  
+2017/06/0210:04:27.95 
+正在升级 '.':
+版本 11732。
+2  
+2017/06/0210:04:28.68 
+正在升级 '.':
+U    app\app3\app\dgg-web-app-wap\src\main\java\com\dgg\controller\wap\WapIndexController.java
+U    app\app3\app\dgg-web-app-wap\src\main\webapp\WEB-INF\jsp\wap\index\search_result_service.jsp
+更新到版本 11732。
+1  
+2017/06/0210:09:27.72 
+正在升级 '.':
+版本 11735。
+2  
+2017/06/0210:09:28.17 
+正在升级 '.':
+U    app\dgg-web-app\src\main\java\com\dgg\utils\WxGoodsUtils.java
+U    order\dgg-order-service-order\src\main\resources\mybatis\mapper\OrdersOrdersMapper.xml
+更新到版本 11735。
+1  
+2017/06/0210:14:27.70 
+正在升级 '.':
+版本 11737。
+2  
+2017/06/0210:14:28.15 
+正在升级 '.':
+版本 11737。
+1  
+2017/06/0210:19:28.02 
+正在升级 '.':
+版本 11738。
+2  
+2017/06/0210:19:28.64 
+正在升级 '.':
+版本 11738。
+1  
+2017/06/0210:24:27.72 
+正在升级 '.':
+版本 11738。
+2  
+2017/06/0210:24:28.16 
+正在升级 '.':
+版本 11738。
+1  
+2017/06/0210:29:28.29 
+正在升级 '.':
+版本 11739。
+2  
+2017/06/0210:29:33.14 
+正在升级 '.':
+A    app\app3\00立项
+A    app\app3\00立项\补充文档
+A    app\app3\05_验收与发布
+A    app\app3\05_验收与发布\补充文档
+A    app\app3\01项目规划阶段
+A    app\app3\01项目规划阶段\补充文档
+A    app\app3\03项目需求开发与管理
+A    app\app3\03项目需求开发与管理\补充文档
+A    app\app3\08_管理与支持过程
+A    app\app3\08_管理与支持过程\补充文档
+A    app\app3\02项目变更管理阶段
+A    app\app3\02项目变更管理阶段\补充文档
+A    app\app3\04研发实现阶段
+A    app\app3\04研发实现阶段\补充文档
+A    app\app3\10_需求提出方文档模
+A    app\app3\10_需求提出方文档模\补充文档
+A    app\app3\07项目评价
+A    app\app3\07项目评价\补充文档
+A    app\app3\06_结项与总结
+A    app\app3\06_结项与总结\补充文档
+更新到版本 11739。
+1  
+2017/06/0210:34:27.78 
+正在升级 '.':
+版本 11739。
+2  
+2017/06/0210:34:28.26 
+正在升级 '.':
+版本 11739。
+1  
+2017/06/0210:39:27.71 
+正在升级 '.':
+版本 11740。
+2  
+2017/06/0210:39:28.28 
+正在升级 '.':
+版本 11740。
+1  
+2017/06/0210:44:27.71 
+正在升级 '.':
+版本 11741。
+2  
+2017/06/0210:44:28.17 
+正在升级 '.':
+版本 11741。
+1  
+2017/06/0210:49:27.72 
+正在升级 '.':
+版本 11742。
+2  
+2017/06/0210:49:28.24 
+正在升级 '.':
+U    app\dgg-web-app\src\main\java\com\dgg\schedule\OrderCheckTask.java
+更新到版本 11742。
