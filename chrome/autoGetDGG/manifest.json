@@ -1,0 +1,32 @@
+﻿{
+  "name": "DGG",
+  "manifest_version": 2,
+  "version": "1.0",
+  "description": "myAutoGet",
+  "browser_action": {
+    "default_icon": "ok.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://mall.dgg.net/gallery*"],
+	  "run_at":"document_end",
+      "js": ["autoGetDGG.js"]
+    },
+	{
+      "matches": ["http://mall.dgg.net/cart-index.html"],
+	  "run_at":"document_end",
+      "js": ["goToCart.js"]
+    },
+	{
+      "matches": ["http://mall.dgg.net/cart-checkout.html"],
+	  "run_at":"document_end",
+      "js": ["checkOut.js"]
+    },
+	{
+      "matches": ["http://order.mi.com/*"],
+	  //"run_at":"document_end",
+      "js": ["submitOrder.js"]
+    }
+   ]
+}
+//"http://list.mi.com/*","http://static.mi.com/","http://static.mi.com/buySuccess","http://order.mi.com/"
