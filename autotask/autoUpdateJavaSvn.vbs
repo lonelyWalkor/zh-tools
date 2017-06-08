@@ -1,2 +1,2 @@
 Set wsa = CreateObject("Wscript.Shell")
-wsa.run "cmd /c C:\Users\Administrator\Desktop\autoTask\svnUpdateJavaCode.bat",vbhide
+wsa.run "cmd /c F:\gitRepository\zh-tools\autotask\svnUpdateJavaCode.bat",vbhide
