@@ -1,0 +1,32 @@
+﻿{
+  "name": "autoGet",
+  "manifest_version": 2,
+  "version": "1.0",
+  "description": "myAutoGet",
+  "browser_action": {
+    "default_icon": "ok.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://item.mi.com/*"],
+	  //"run_at":"document_end",
+      "js": ["autoGet.js"]
+    },
+	{
+      "matches": ["http://static.mi.com/buySuccess/*"],
+	  //"run_at":"document_end",
+      "js": ["goToCart.js"]
+    },
+	{
+      "matches": ["http://static.mi.com/cart/*"],
+	  //"run_at":"document_end",
+      "js": ["checkOut.js"]
+    },
+	{
+      "matches": ["http://order.mi.com/*"],
+	  //"run_at":"document_end",
+      "js": ["submitOrder.js"]
+    }
+   ]
+}
+//"http://list.mi.com/*","http://static.mi.com/","http://static.mi.com/buySuccess","http://order.mi.com/"
